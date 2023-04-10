@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.doc-head{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    position: fixed;
+    width: 100%;
+}
+
+.doc-head a{
+    text-decoration: none;
+    color: white;
+    padding-left: 2%;
+    
+    
+}
+.doc-head h3{
+    text-align: center;
+}
+.yellow-color{
+    color: yellow;
+}
+.bike-head a:hover{
+    color: yellow;
+}
+.bike-head h3{
+    color: white;
+    margin-left: 730px;
+    
+}
+
+.bikes{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.collections{
+    width: 70%;
+    position: static;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+
+.bikeupdate{
+    width: 30%;
+    background-color: rgb(189, 189, 190);
+    height: 200%;
+}
+
+.bikeupdate .addbike label{
+   font-size: larger;
+   font-weight: 600;
+   font-style:normal;
+   margin-left: 10px;
+   
+  
+}
+.bikeupdate h3{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.bikeupdate .addbike input{
+    height: 30px;
+    border-radius: 5px;
+   border: 1px solid black;
+   margin-left: 10px;
+   
+}
+.image input{
+    margin-left: 10px;
+   
+}
+.image label{
+    font-size: larger;
+    font-weight: 500;
+    font-style:normal;
+    padding: 10px;
+}
+.bikeupdate a{
+    text-decoration: none;
+    color: white;
+}
+
+.bikeupdate button{
+   width: 100px;
+   height: 30px;
+   border-radius: 5px;
+   border: 0;
+    margin-left: 100px;
+    background-color: rgb(176, 17, 17);
+    
+}
+
+
+ .table1 tr,th {
+    border: 1px solid #dddddd;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    
+  }
+
+  .table1 td{
+    border: 1px solid #dddddd;
+    
+   
+  }
+
+  .table1 button{
+    border: 0;
+    border-radius: 5px;
+    margin: 10px;
+    width: 70px;
+    height: 35px;
+  }
+  
+
+  .bupdate{
+    background-color: rgba(0, 0, 255, 0.657);
+    color: white;
+  }
+
+  .delete{
+    background-color: rgb(190, 12, 12);
+    color: white;
+  }
+  .drop{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+  }

@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cus_table{
+    width: 650px;
+    height: 400px;
+    margin: 50px;
+    background-color: rgb(164, 184, 223);
+}
+.cus_table td{
+    border: 1px solid white;
+}

@@ -1,0 +1,53 @@
+    .wholebox{
+        background-image: url(../img/images/sethescope.jpg);
+        background-position: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+      form {
+        padding-left: 50%;
+        margin: 10px ;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        
+        
+     } 
+
+     label {
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+     
+    input,textarea {
+        padding-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    button[type="submit"] {
+        padding-top: 10px ;
+        padding-bottom: 10px ;
+        width: 110px;
+        color: #131212;
+        border: none;
+        border-radius: 9px;
+        cursor: pointer;
+        margin-left: 25px;
+}
+button[type="submit"]:hover {
+
+    background-color: #066f8a;
+
+  }
+
+ .error{
+
+    color:#f54b4b;
+
+    font-weight: bold;
+
+  } 
+
+   
+

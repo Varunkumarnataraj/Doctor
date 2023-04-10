@@ -1,0 +1,166 @@
+.hospital-container{
+    display:flex;
+    flex-direction: column;
+}
+.hospital-header{
+    width: 100%;
+    height:65px;
+     /* background-color: rgb(216, 115, 13);  */
+    text-align: center;
+}
+ /* p{
+    color:rgb(238, 54, 54);
+    font-size:20px;
+    text-transform: capitalize;
+    float: none;
+    padding-right: 280px;
+} */
+.hospital-header>p{
+   margin-left: 20%;
+}
+.hospital-left{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.gangahospital.com/public/images/update/h_facilities_3.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-right{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('http://static1.squarespace.com/static/50305915e4b00d577d14e583/50d2bb66e4b0f67e3f203350/50d2bb67e4b06e38bcf4dee9/1355987819811/Hybrid-OR-Operating-Room-GE-Discovery-IGS-730-Skytron-LED-Surgical-Lights-Equipment-Booms-PA-16.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-centre{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.renaimedicity.org/wp-content/uploads/2021/03/accident-emergency-inn.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+
+
+.hospital-whole{
+    display: flex;
+}
+.hospital-divtwo{
+    display: flex;
+}
+
+.hospital-one{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.gangahospital.com/public/images/update/h_facilities_4.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-two{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.gangahospital.com/public/images/update/DSC_0616-min.JPG');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-three{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.gangahospital.com/public/images/update/h_facilities_2.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-divlast{
+    display: flex;
+}
+
+.hospital-four{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://bansalhospital.com/wp-content/uploads/2020/09/Blood-Bank.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-five{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.kmchphysiotherapy.ac.in/images/ngp/ngp-ph2.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.hospital-six{
+    cursor: pointer;
+    height: 300px;
+    width: 420px;
+    background-image: url('https://www.gangahospital.com/public/images/update/dietcover.jpg');
+    background-size:cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.contone{
+    display: flex;
+    flex-direction: column;
+}
+.contwo{
+    display: flex;
+    flex-direction: column;
+}
+.conthree{
+    display: flex;
+    flex-direction: column;
+}
+.confour{
+    display: flex;
+    flex-direction: column;
+}
+.confive{
+    display: flex;
+    flex-direction: column;
+}
+.consix{
+    display: flex;
+    flex-direction: column;
+}
+.conseven{
+    display: flex;
+    flex-direction: column;
+}
+.coneight{
+    display: flex;
+    flex-direction: column;
+}
+.connine{
+    display: flex;
+    flex-direction: column;
+}
+.hospital-content{
+    text-align: center;
+    font-size: x-large;
+}
+.hospital-content {
+   font-size:20px;
+}
